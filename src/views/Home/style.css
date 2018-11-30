@@ -1,0 +1,6 @@
+.stick {
+  overflow: hidden;
+  position: sticky;
+  top: 0;
+}
+

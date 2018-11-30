@@ -1,0 +1,19 @@
+.HeadCSS{
+   font-style:bold;
+   font-size:20px;
+}
+
+.ui.segment.NoMargin {
+  margin: 0 0  !important;
+}
+.cart-link:focus,
+.cart-link {
+  color: white;
+}
+
+.align{
+  padding-top: 1px !important;
+}
+.align2{
+  padding-left: 30px !important;
+}

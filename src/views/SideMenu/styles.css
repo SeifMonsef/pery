@@ -1,0 +1,8 @@
+.custom-close{
+  color: #00FF00 !important;
+}
+
+.side.ui.wide.left.sidebar, .ui.wide.right.sidebar {
+  width: 300px !important;
+}
+

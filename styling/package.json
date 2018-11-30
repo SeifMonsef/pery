@@ -1,0 +1,7 @@
+{
+  "name": "pwa-theme-woocommerce-tethr-theming",
+  "private": true,
+  "dependencies": {
+    "semantic-ui": "^2.3.3"
+  }
+}

@@ -1,0 +1,30 @@
+
+.ui.two.cards {
+  margin-left: 1em !important;
+  margin-right: 1em !important;
+
+}
+
+.ui.card, .ui.cards>.card
+{
+  border:0 !important;
+  box-shadow: none !important;
+}
+
+.ui.attached.header.hh4 {
+  border: none !important;
+}
+
+/* .ui.selection.dropdown.dropp {
+padding-top: 2em !important;
+background-color: black !important;
+} */
+
+
+
+.ui.fluid.dropdown.dropp {
+  background-color: black !important;
+  color: white !important;
+  border-radius: 0 !important;
+  line-height: 1.5 !important;
+}

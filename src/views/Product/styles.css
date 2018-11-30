@@ -1,0 +1,35 @@
+.no-outline {
+  outline: none;
+}
+
+.image-gallery-right-nav::before,
+.image-gallery-left-nav::before,
+.image-gallery-fullscreen-button::before {
+  text-shadow: 0 1px 1px #999;
+}
+
+.image-gallery-right-nav:hover::before,
+.image-gallery-left-nav:hover::before {
+  color: white;
+}
+
+.font-types{
+  font-weight:  bold !important;
+  font-size: 16px !important;
+}
+.in-stock{
+  color:green !important;
+}
+.out-stock{
+  color:red !important;
+}
+.but {
+  color: black !important;
+  font-weight: normal !important;
+}
+.arrow {
+  padding-left: 1.5em !important;
+}
+.Headerr{
+  padding-right: 35px !important;
+}

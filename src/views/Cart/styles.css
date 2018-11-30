@@ -1,0 +1,132 @@
+.cart-product, .cart-summary {
+  margin-top: 2.5em !important;
+  width: 90% !important;
+}
+
+.cart-product .content {
+  padding-top: 2em !important;
+}
+
+.cart-product .content .column {
+  padding: 0.5em !important;
+}
+
+.cart-buttons {
+  position: absolute;
+  top: -30px;
+  right: 0;
+  background: white !important;
+}
+
+.cart-buttons button,
+.cart-button {
+  border-radius: 50% !important;
+}
+
+.cart-quantity-label {
+  padding-top: 0.7em !important;
+}
+
+.cart-quantity-input {
+  max-width: 7em !important;
+  margin-right: 0.3em !important;
+}
+
+.cart-quantity-input input {
+  text-align: center !important;
+  padding: 10px !important;
+}
+.bordless {
+  border-radius: 0 !important;
+  border: none !important;
+  background: white !important;
+  color: black !important;
+}
+
+
+
+.ui.menu .item:before{
+  width : 0px !important;
+}
+.Back {
+  background-color: #DCDCDC !important;
+}
+
+.bigFont{
+font-size: 20px !important;
+}
+
+.blackk{
+  color: black !important;
+}
+
+.mnuu.ui.menu{
+  border: 0 !important;
+  background-color: #DCDCDC;
+  height: 30px;
+}
+.bord{
+  border: 1px solid !important;
+}
+.fontt{
+color: black !important;
+}
+.down{
+  padding-top: 1em !important;
+}
+.spannn{
+  font-weight: normal;
+  font-size: 14px;
+  padding-left: 10em ;
+}
+.custom-button {
+  background-color: #1E90FF !important;
+  color: black;
+  font-weight: normal !important;
+  border-radius: 0 !important;
+}
+.fonting{
+  font-size: 16px !important;
+}
+.smalll{
+  padding: 1em 1em 1em 1em !important;
+  padding-left: 1em !important;
+}
+
+.ui.items:not(.unstackable)>.item>.image, .ui.items:not(.unstackable)>.item>.image>img
+{
+  width: 80px !important;
+}
+
+.ui.items:not(.unstackable)>.item
+{
+  flex-direction: row !important;
+}
+
+.ui.items:not(.unstackable)>.item>.image+.content
+{
+  padding: 0 !important;
+  padding-left: 1.5em !important;
+}
+.spann{
+  font-weight: normal;
+  font-size: 14px;
+  padding-left: 4em !important ;
+}
+.custom-item{
+  padding: 0em 1em !important;
+}
+.pad{
+  padding: 1em 0em !important;
+}
+.Head{
+  padding-left: 35px !important;
+  padding-top: 5px !important;
+}
+.up{
+  margin-bottom: 10px !important;
+}
+.arrow{
+  padding-top: 3px !important;
+  padding-left: 35px !important;
+}
